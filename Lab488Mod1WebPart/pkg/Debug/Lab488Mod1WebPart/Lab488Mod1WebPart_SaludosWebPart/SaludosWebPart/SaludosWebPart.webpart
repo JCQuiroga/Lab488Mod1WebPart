@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Lab488Mod1WebPart.VisualWebPart1.VisualWebPart1, Lab488Mod1WebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4a8d56e887f2346a" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Saludos Web Part</property>
+        <property name="Description" type="string">Un web part para dar la bienvenida</property>
+      </properties>
+
+    </data>
+  </webPart>
+</webParts>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Lab488Mod1WebPart" Id="bb2541ea-b672-4f36-853e-287b8cf7c405" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="SaludosWebPart\Elements.xml" />
+    <ElementFile Location="SaludosWebPart\SaludosWebPart.webpart" />
+  </ElementManifests>
+</Feature>
